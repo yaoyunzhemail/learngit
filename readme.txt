@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 git add merge
 bug branch
 old man modified his readme!
+another man modified his readme!
